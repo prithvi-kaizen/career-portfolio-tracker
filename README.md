@@ -169,8 +169,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Prithviraj Sangramsinhpatil**
-- GitHub: [@prithvirajsangramsinhpatil](https://github.com/prithvirajsangramsinhpatil)
-- LinkedIn: [Prithviraj Sangramsinhpatil](https://linkedin.com/in/prithvirajsangramsinhpatil)
+- GitHub: [@prithvirajsangramsinhpatil](https://github.com/prithvi-kaizen)
+- LinkedIn: [Prithviraj Sangramsinhpatil](www.linkedin.com/in/prithviraj6544)
 
 ---
 
