@@ -7,7 +7,7 @@ A modern, production-ready web application to track internships, certifications,
 ![MongoDB](https://img.shields.io/badge/MongoDB-8.0-47A248?logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?logo=tailwindcss)
 
-## ✨ Features
+##  Features
 
 - **Dashboard** — Overview with stats strip and recent activity
 - **Internship Tracking** — Company, role, duration, status, skills used
@@ -16,7 +16,7 @@ A modern, production-ready web application to track internships, certifications,
 - **Authentication** — Secure email/password login with JWT
 - **Responsive Design** — Works on desktop, tablet, and mobile
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 - Clean, minimalist CRM-style UI
 - White/off-white backgrounds with dark neutral text
@@ -25,7 +25,7 @@ A modern, production-ready web application to track internships, certifications,
 - Tables for structured data (not cards)
 - No unnecessary animations or decorations
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -115,7 +115,7 @@ career-portfolio-tracker/
             └── api.js         # Axios instance
 ```
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Authentication
 | Method | Endpoint | Description |
@@ -134,7 +134,7 @@ career-portfolio-tracker/
 
 Same pattern applies for `/api/skills` and `/api/certifications`.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - React 18 with Vite
@@ -150,11 +150,8 @@ Same pattern applies for `/api/skills` and `/api/certifications`.
 - JWT Authentication
 - bcryptjs for password hashing
 
-## 📱 Screenshots
 
-*Add screenshots of your application here*
-
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -166,7 +163,7 @@ Same pattern applies for `/api/skills` and `/api/certifications`.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
+##  Author
 
 **Prithviraj Sangramsinhpatil**
 - GitHub: [@github](https://github.com/prithvi-kaizen)
